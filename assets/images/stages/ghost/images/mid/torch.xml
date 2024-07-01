@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="torch.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="burning0000" x="628" y="0" width="628" height="608" frameX="-480" frameY="2" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="burning0001" x="0" y="608" width="628" height="608" frameX="-480" frameY="2" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="burning0002" x="1256" y="0" width="628" height="608" frameX="-480" frameY="2" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="burning0003" x="0" y="0" width="628" height="608" frameX="-480" frameY="2" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="burning0004" x="628" y="608" width="628" height="608" frameX="-480" frameY="2" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="burning0005" x="1256" y="608" width="628" height="608" frameX="-480" frameY="2" frameWidth="2560" frameHeight="1400"/>
+</TextureAtlas>

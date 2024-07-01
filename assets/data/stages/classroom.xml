@@ -1,0 +1,27 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.95" name="classroom" folder="stages/sketch/images">
+      <sprite name="skybox" x="-190" y="-190" sprite="back/skybox" scroll="1" antialiasing="false"/>
+	  <sprite name="clouds" x="-190" y="10" sprite="back/clouds" scroll="0.5" scaleY="0.8" antialiasing="false"/>
+      <sprite name="towers" x="-1000" y="-200" sprite="back/backTowers" scroll="0.6" scale="0.5" antialiasing="false"/>
+      <sprite name="tower1" x="-950" y="-350" sprite="back/tower1" scroll="0.7" scale="0.6" antialiasing="false"/>
+	  <sprite name="tower2" x="-300" y="-320" sprite="back/tower2" scroll="0.7" scale="0.6" antialiasing="false"/>
+	  <sprite name="tower3" x="-450" y="-320" sprite="back/tower3" scroll="0.7" scale="0.6" antialiasing="false"/>
+	  <sprite name="trees" x="-650" y="-150" sprite="back/trees" scroll="0.85" scale="0.6" antialiasing="false"/>
+	  <sprite name="bush1" x="-1200" y="-180" sprite="back/bush" scroll="0.9" scale="0.6" antialiasing="false"/>
+	  <sprite name="bush2" x="-700" y="-180" sprite="back/bush" scroll="0.9" scale="0.6" antialiasing="false"/>
+	  <sprite name="bush3" x="-200" y="-180" sprite="back/bush" scroll="0.9" scale="0.6" antialiasing="false"/>
+
+	  <sprite name="room" x="-190" y="-190" sprite="mid/room" scroll="1" antialiasing="false"/>
+	  <sprite name="sign" x="-190" y="-190" sprite="mid/sign" scroll="1" scale="0.6" antialiasing="false"/>
+	  <sprite name="board" x="450" y="-240" sprite="mid/board" scroll="1" scale="0.6" antialiasing="false"/>
+
+      <girlfriend x="640" y="220" />
+	  <sprite name="deskSketch" x="-190" y="-190" sprite="fg/desk" scroll="1" antialiasing="false"/>
+	  <sprite name="stool" x="-380" y="-110" sprite="fg/stool" scroll="1" scale="0.7" antialiasing="false"/>
+      <dad x="400" y="470" />
+      <boyfriend x="1270" y="140" />
+
+	  <sprite name="sign1" x="-490" y="310" sprite="fg/left" scroll="1" scale="0.8" antialiasing="false"/>
+	  <sprite name="sign2" x="-190" y="310" sprite="fg/right" scroll="1" scale="0.8" antialiasing="false"/> <!-- ik it's bad for memory but flipping the x didn't work so i had to use another image i'll fix this in the full release maybe-->
+
+</stage>

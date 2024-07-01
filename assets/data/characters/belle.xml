@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="sketch" y="0" isGF="false" color="#BA70FB" isPlayer="false" holdTime="6.1" sprite="belle">
+	<anim x="0" loop="true" y="0" fps="24" anim="belle idle" name="idle"/>
+        <anim x="0" loop="false" y="0" fps="24" anim="belle fail" name="fail"/>
+        <anim x="0" loop="true" y="0" fps="24" anim="belle altidle" name="idle-alt"/>
+</character>

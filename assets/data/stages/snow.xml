@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="classroom" folder="stages/ghost/images">
+
+    <sprite name="bg" x="-340" y="-190" sprite="back/BG" scroll="0.8" antialiasing="false"/>
+    <sprite name="hall" x="-340" y="-190" sprite="back/Back Hall" scroll="0.8" antialiasing="false"/>
+    <sprite name="pill1" x="-1000" y="-190" sprite="back/pill" scroll="0.8" antialiasing="false"/>
+    <sprite name="pill2" x="-400" y="-190" sprite="back/pill" scroll="0.8" antialiasing="false"/>
+    <sprite name="gradient" x="-540" y="-190" sprite="back/Back Gradient" scroll="1" antialiasing="false"/>
+
+	<sprite name="room" x="-340" y="-190" sprite="mid/Front Hall" scroll="1" antialiasing="false"/>
+
+    <gf x="800" y="450" scroll="1" scale="1.4"/>
+    <dad x="300" y="240" scroll="1" alpha="0.47" scale="1.4"/>
+    <boyfriend x="1100" y="280" />
+
+    <sprite name="gradient2" x="-340" y="-190" sprite="fg/Blue Gradient" scroll="1" antialiasing="false" alpha="0.76"/>
+
+</stage>

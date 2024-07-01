@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="belle.png"><SubTexture name="belle fail0000" x="0" y="0" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0001" x="297" y="0" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0002" x="594" y="0" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0003" x="891" y="0" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0004" x="1188" y="0" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0005" x="1485" y="0" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0006" x="0" y="432" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0007" x="297" y="432" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0008" x="594" y="432" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0009" x="891" y="432" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0010" x="1188" y="432" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0011" x="1485" y="432" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0012" x="0" y="864" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0013" x="297" y="864" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle fail0014" x="594" y="864" width="297" height="432" frameX="0" frameY="0" frameWidth="297" frameHeight="432" />
+<SubTexture name="belle idle0000" x="891" y="864" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0001" x="1194" y="864" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0002" x="1497" y="864" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0003" x="0" y="1297" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0004" x="303" y="1297" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0005" x="606" y="1297" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0006" x="909" y="1297" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0007" x="1212" y="1297" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0008" x="1515" y="1297" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0009" x="0" y="1730" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0010" x="303" y="1730" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0011" x="606" y="1730" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0012" x="909" y="1730" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0013" x="1212" y="1730" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle idle0014" x="1515" y="1730" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0000" x="0" y="2163" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0001" x="303" y="2163" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0002" x="606" y="2163" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0003" x="909" y="2163" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0004" x="1212" y="2163" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0005" x="1515" y="2163" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0006" x="0" y="2596" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0007" x="303" y="2596" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0008" x="606" y="2596" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0009" x="909" y="2596" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0010" x="1212" y="2596" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0011" x="1515" y="2596" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0012" x="0" y="3029" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0013" x="303" y="3029" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+<SubTexture name="belle altidle0014" x="606" y="3029" width="303" height="433" frameX="0" frameY="0" frameWidth="303" frameHeight="433" />
+</TextureAtlas>

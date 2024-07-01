@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="cuteez" folder="stages/cutee/images">
+
+    <sprite name="forest" x="-240" y="110" sprite="forest" scale="1" scroll="1" antialiasing="false"/>
+
+    <gf x="800" y="560" scroll="1"/>
+    <dad x="500" y="1000" scroll="1" scale="1.2"/>
+    <boyfriend x="1400" y="480" />
+
+    <sprite name="bush" x="-70" y="280" sprite="bushes" scale="1" scroll="1.2" antialiasing="false"/>
+
+</stage>

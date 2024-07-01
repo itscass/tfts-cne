@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="classroom" folder="stages/spy/images">
+
+    <sprite name="bg" x="-340" y="-190" sprite="back/bak" scroll="1" antialiasing="false"/>
+
+    <sprite name="tube" x="-340" y="-280" sprite="mid/toob" scroll="1" antialiasing="false"/>
+    <sprite name="lit" x="-340" y="20" sprite="mid/lit" scroll="1" antialiasing="false" alpha="0.8"/>
+
+    <gf x="600" y="300" scroll="1"/>
+    <dad x="150" y="260" scroll="1" scale="1.2"/>
+    <boyfriend x="1170" y="210" />
+
+</stage>

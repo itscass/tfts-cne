@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="alicia" y="0" isGF="false" color="#9368FE" isPlayer="false" holdTime="6.1" sprite="alicia" size="10">
+	<anim x="0" loop="true" y="0" fps="24" anim="alicia idle" name="idle"/>
+	<anim x="4" loop="false" y="15" fps="24" anim="alicia singUP" name="singUP"/>
+	<anim x="13" loop="false" y="0" fps="24" anim="alicia singLEFT" name="singLEFT"/>
+	<anim x="-20" loop="false" y="-1" fps="24" anim="alicia singRIGHT" name="singRIGHT"/>
+	<anim x="-8" loop="false" y="-12" fps="24" anim="alicia singDOWN" name="singDOWN"/>
+</character>

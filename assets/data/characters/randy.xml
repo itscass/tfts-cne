@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="randy" y="0" isGF="true" color="#FF6701" isPlayer="false" holdTime="6.1" sprite="randy">
+	<anim x="0" loop="false" y="0" fps="24" anim="randy danceLeft" name="idle" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"/>
+        <anim x="0" loop="false" y="0" fps="24" anim="randy danceRight" name="idle" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"/>
+	<anim x="4" loop="false" y="15" fps="24" anim="randy up" name="singUP"/>
+	<anim x="13" loop="false" y="0" fps="24" anim="randy left" name="singLEFT"/>
+	<anim x="-20" loop="false" y="-1" fps="24" anim="randy right" name="singRIGHT"/>
+	<anim x="-8" loop="false" y="-12" fps="24" anim="randy down" name="singDOWN"/>
+</character>

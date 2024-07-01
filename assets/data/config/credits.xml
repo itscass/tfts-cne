@@ -1,0 +1,10 @@
+<!DOCTYPE codename-mod-credits>
+<!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
+<menu name="Mod Credits" desc="Modify mod credits here">
+	<!-- \/ You can also set the portrait shader as false as you can see below in the github one -->
+	<credit name="Baldrekr Gaming" desc='Director, Artist "@everyone WAKE THE FUCK UP"' icon="justin" size="130" url="https://twitter.com/baldrekrgaming" portrait="true"/>
+	<credit name="TheSketchAlex" desc='Musician, Animator "me tryna download funkadelix rn: its downloading SO FUCKING SLOW GRRRAAAHHH"' icon="alex" size="130" url="https://twitter.com/thesketchalex" portrait="true"/>
+    <credit name="cass" desc='Coder "blocked"' icon="cass" size="130" url="https://twitter.com/xx_heyimcass_xx" portrait="true"/>
+    <credit name="KaiDotBurokai" desc='Musician, Charter "just bought persona 5, hell yea"' icon="kai" size="130" url="https://twitter.com/kaidotburokai" portrait="true"/>
+    <credit name="Fireworkz" desc='Musician, Charter "Thats a nail, thats a bomb, thats a sponge"' icon="fireworkz" size="130" url="https://twitter.com/firework_july4" portrait="true"/>
+</menu>
