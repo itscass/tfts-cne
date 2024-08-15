@@ -10,6 +10,6 @@
  # also credits n shit (using twitter tags i'm too tired to use links)
  @baldrekrgaming - art
  @thesketchalex - animation, music
- @xx_heyimcass_xx - code
+ @_heyimcass - code
  @kaidotburokai - music
  @firework_july4 - music, charting
